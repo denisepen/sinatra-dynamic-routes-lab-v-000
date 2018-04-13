@@ -20,7 +20,7 @@ class App < Sinatra::Base
     # binding.pry
     phrase_array = Array.new(@number, @phrase)
     binding.pry
-    
+
   end
 
 
